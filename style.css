@@ -1,4 +1,9 @@
+html, body {
+  height: 100%;
+  margin: 0;
+  background-color: black;
+  color: white;
+}
 body {
- color: white;
- background-color: black;
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
 }
